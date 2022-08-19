@@ -17,5 +17,5 @@ I am a front-end developer from China, currently live in Tampere, Finland.
 
 🔗 &nbsp;**Connect with me**
 
-<a href="https://www.linkedin.com/in/yu-fu-0330/"><img src="imgs/linkedin-icon-2.svg" alt="linkedin" width="20px" height="20px" style="display: inline-block; margin-right: 10px"/></a>
-<a href="https://www.instagram.com/yu_tangerine/"><img src="imgs/instagram-5.svg" alt="instagram" width="20px" height="20px" /></a>
+     <a href="https://www.linkedin.com/in/yu-fu-0330/"><img src="imgs/linkedin-icon-2.svg" alt="linkedin" width="20px" height="20px" style="display: inline-block; margin-right: 10px"/></a>
+     <a href="https://www.instagram.com/yu_tangerine/"><img src="imgs/instagram-5.svg" alt="instagram" width="20px" height="20px" /></a>
