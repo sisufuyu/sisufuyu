@@ -6,7 +6,7 @@ I am a front-end developer from China, currently live in Tampere, Finland.
 - 📫 How to reach me: sisu.fuyu@outlook.com
 - ⚡ Fun fact: I like painting and travelling.
 
-💻&nbsp;** Main Technologies: **
+💻&nbsp;**Main Technologies:**
      <img src="imgs/javascript-1.svg" alt="javascript" width="20px" height="20px" style="display: inline-block; margin-right: 5px" />
      <img src="imgs/typescript.svg" alt="typescript" width="20px" height="20px" style="display: inline-block; margin-right: 5px" />
      <img src="imgs/html-1.svg" alt="html" width="20px" height="20px" style="display: inline-block; margin-right: 5px" />
