@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Yu Fu
 
-I am a front-end developer from China, currently live in Tampere, Finland.
+I am a full stack developer from China, currently live in Tampere, Finland.
 
-- 🔭 I’m currently working on a training program in Full Stack Development and DevOps 
+- 🔭 I’m currently working on a training program in Full Stack Development, DevOps and Cloud Services with AWS.
 - 📫 How to reach me: sisu.fuyu@outlook.com
 - ⚡ Fun fact: I like painting and travelling.
 
